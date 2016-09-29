@@ -41,7 +41,7 @@ npm start
 
 ## Authors
 
-* <a href="davidporras.github.io/portfolio"> ** David Porras** - *FrontEnd Developer* </a>- [Github](https://github.com/DavidPorras)
+* David Porras - *FrontEnd Developer and Multimedia designer* - [Github](https://davidporras.github.io/portfolio)
 
 <!--## License
 
